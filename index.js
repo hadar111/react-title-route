@@ -2,7 +2,7 @@
 
 exports.__esModule = true;
 
-var header = '../react-router/lib';
+var header = '../../react-router/lib';
 
 var _extends = Object.assign || function (target) {
         for (var i = 1; i < arguments.length; i++) {
