@@ -1,0 +1,23 @@
+{
+  "name": "react-router-title",
+  "version": "1.0.0",
+  "description": "Document.title changer for React Router",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "component",
+    "react-component",
+    "react-router",
+    "document.title",
+    "title",
+    "jsx"
+  ],
+  "author": "Hadar Geva <Hadar111@gmail.com> (http://github.com/hadar111)",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^0.13.0"
+  },
+  "dependencies": {
+    "react-router": "^2.5.2"
+  }
+}
